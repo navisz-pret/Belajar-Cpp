@@ -3,10 +3,9 @@ using namespace std;
 
 int main() {
 
-    for (int i = 10; i >= 1; i--) {
+    for (int i = 10; i >= 1; i--) {//logika perulangan menggunakan perintah for
 
             cout << i << endl;
         }
-    // aneh banget loh ya.
     return 0;
     }
