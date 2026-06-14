@@ -8,7 +8,7 @@ int main() {
 
     cout << "masukan nama anda: " ;
     getline(cin, nama); // untuk membaca input nama yang mungkin menggunakan spasi.
-
+    cin.ignore()//membersihkan sisa enter di memori
     cout << "masukan umur anda: ";
     cin >> umur; // untuk membaca input umur.
 
