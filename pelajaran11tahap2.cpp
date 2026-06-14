@@ -3,7 +3,7 @@
 using namespace std;
 
 class Mobil {
-    public://ini constructor
+    public:
         string nama;
         int kecepatan;
 
