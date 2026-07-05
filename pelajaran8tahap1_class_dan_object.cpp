@@ -32,6 +32,6 @@ int main() {
                             cout << "error: tidak bisa dibagi nol." << endl
           << "silahkan masukan angka kedua yang bukan bilangan nol!!." << endl;
             }
-        }     //ambacoding loh ya. 
+        }      
     return 0;
     }
