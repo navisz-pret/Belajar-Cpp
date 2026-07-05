@@ -1,0 +1,14 @@
+# Hasil kompilasi (C++ Windows)
+*.exe
+*.o
+*.obj
+
+# Folder hasil build
+bin/
+
+# Konfigurasi VS Code
+.vscode/
+
+# File sistem (Windows)
+.DS_Store
+Thumbs.db
